@@ -9,3 +9,7 @@
 <br>
 
 ### Esse repositório está separado por módulos que tem o bootcamp e que possuem projetos práticos. Logo, não possui todos os materiais usados durante o treinamento.
+
+<br>
+
+No momento, estou escrevendo um readme para cad um dos projetos que colocarei aqui. Em breve, serão atualizados.
